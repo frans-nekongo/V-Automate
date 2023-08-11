@@ -5,3 +5,4 @@ take in audio from microphone,and ouput it like a closed caption(string format),
 
 1.get api from posibly google that can be used for getting the command as string from voice
 2.get api for automation.example the powerAutomate by microsoft application
+3.ai trained to listen to your voice(optional adancement ,will provide less errors)
